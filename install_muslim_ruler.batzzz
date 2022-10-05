@@ -1,0 +1,4 @@
+call Muslim_Ruler_v503.gadget /s /d %programfiles%\Windows Sidebar\Shared Gadgets\Muslim_Ruler_v503.Gadget
+call Muslim_Ruler.Gadget /s /d %programfiles%\Windows Sidebar\Shared Gadgets\Muslim_Ruler.Gadget
+"%programfiles%\windows sidebar\sidebar.exe" /autorun
+"%programfiles%\windows sidebar\sidebar.exe" /showgadgets
